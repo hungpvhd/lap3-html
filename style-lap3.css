@@ -1,0 +1,42 @@
+i{
+	color: blue;
+	font-size: 18px;
+	font-style: italic;
+}
+a {
+	color: red;
+	font-style: italic;
+}
+b{
+	font-style: italic;
+	color: brown;
+}
+h1{
+	color: white;
+}
+.concua{
+	color: orange;
+}
+#mau{
+	color: green;
+}
+.idol{
+	font-style: italic;
+	color: yellow;
+}
+.Tôi{
+	font-style: italic;
+	color: white;
+}
+u {
+	font-size: 25px;
+	color: white;
+}
+footer{
+	font-size: 20px;
+	font-style: inherit;
+}
+p{
+	color: white;
+	font-size: 18px;
+}
